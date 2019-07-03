@@ -346,13 +346,13 @@
 		-ms-transition: border-bottom-color 0.2s ease, color 0.2s ease;
 		transition: border-bottom-color 0.2s ease, color 0.2s ease;
 		border-bottom: dotted 1px rgba(255, 255, 255, 0.25);
-		color: #f44265;
+		color: #76ac33;
 		text-decoration: none;
 	}
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #f44265 !important;
+			color: #76ac33 !important;
 			text-decoration: none;
 		}
 
@@ -629,7 +629,7 @@
 			}
 
 			form .message.success {
-				color: #f44265;
+				color: #76ac33;
 			}
 
 				form .message.success:before {
@@ -791,7 +791,7 @@
 			-ms-animation: focus 0.1s;
 			animation: focus 0.1s;
 			background-color: rgba(255, 255, 255, 0.125);
-			border-color: #f44265;
+			border-color: #76ac33;
 		}
 
 	.select-wrapper {
@@ -894,16 +894,16 @@
 
 		input[type="checkbox"]:checked + label:before,
 		input[type="radio"]:checked + label:before {
-			background: #f44265;
-			border-color: #f44265;
+			background: #76ac33;
+			border-color: #76ac33;
 			color: #ffffff;
 			content: '\f00c';
 		}
 
 		input[type="checkbox"]:focus + label:before,
 		input[type="radio"]:focus + label:before {
-			border-color: #f44265;
-			box-shadow: 0 0 0 2px #f44265;
+			border-color: #76ac33;
+			box-shadow: 0 0 0 2px #76ac33;
 		}
 
 	input[type="checkbox"] + label:before {
@@ -954,7 +954,7 @@
 		-webkit-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out, opacity 0.2s ease-in-out;
 		-ms-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out, opacity 0.2s ease-in-out;
 		transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out, opacity 0.2s ease-in-out;
-		background-color: #f44265;
+		background-color: #76ac33;
 		border-radius: 6px;
 		border: 0;
 		color: #ffffff !important;
@@ -974,7 +974,7 @@
 		input[type="button"]:hover,
 		button:hover,
 		.button:hover {
-			background-color: #f44265;
+			background-color: #76ac33;
 		}
 
 		input[type="submit"]:active,
@@ -982,7 +982,7 @@
 		input[type="button"]:active,
 		button:active,
 		.button:active {
-			background-color: #f44265;
+			background-color: #76ac33;
 		}
 
 		input[type="submit"].disabled, input[type="submit"]:disabled,
